@@ -1,0 +1,49 @@
+/*td {
+	border: 1px black;
+	height: 2px;
+	width: 2px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}*/
+
+td {
+  height: 95px;
+  width: 95px;
+  border: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  border-color: 'green';
+  padding: 20px;
+}
+
+.turnBlue {
+  height: 95px;
+  width: 95px;
+  border: 10px;
+  background-color: blue;
+  border-radius: 50%;
+  border-color: 'green';
+  padding: 20px;
+}
+
+.turnRed {
+  height: 95px;
+  width: 95px;
+  border: 10px;
+  background-color: red;
+  border-radius: 50%;
+  border-color: 'green';
+  padding: 20px;
+}
+
+.testing {
+  height: 95px;
+  width: 95px;
+  border: 10px;
+  background: blue;
+  border-radius: 50%;
+  border-color: 'green';
+  padding: 20px;
+}
